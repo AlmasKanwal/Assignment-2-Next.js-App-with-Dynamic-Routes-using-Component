@@ -5,7 +5,7 @@ export default function Home() {
   return(
     <div className="text-center text-1xl">
       <Nav />
-      <h1 className="text-center text-2xl"><b>Task: Building a Next.js Application with Dynamic Routes</b></h1>
+      <h1 className="text-center text-2xl"><b>Assignment 2: Building a Next.js Application with Dynamic Routes using Component</b></h1>
        </div>
   );
 }
