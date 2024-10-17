@@ -1,4 +1,4 @@
-import Nav from "@/app/components/Nav";
+// import Nav from "@/app/components/Nav";
 import React from "react";
 
 export default function About() {
