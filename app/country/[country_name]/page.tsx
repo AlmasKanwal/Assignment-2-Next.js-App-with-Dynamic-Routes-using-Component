@@ -1,7 +1,7 @@
 import React from 'react';
-import { CountryDetails } from "@/types/type"; // Ensure the type is correctly defined in your types file
+import { CountryDetails } from "@/types/type"; 
 import Link from "next/link";
-import CountryCard from "@/app/components/countryCard/countryCard"; // Make sure the component is named correctly (case-sensitive)
+import CountryCard from "@/app/components/countryCard/countryCard"; 
 
 export default function CountryName({ params }: { params: { country_name: string } }) {
     console.log("Params:", params); // Log params for debugging
